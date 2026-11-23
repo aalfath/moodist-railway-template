@@ -52,6 +52,7 @@ cat > /etc/caddy/Caddyfile <<CONF
 }
 CONF
 
+caddy fmt --overwrite /etc/caddy/Caddyfile >/dev/null 2>&1 || true
 caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile >/dev/null 2>&1 || {
   echo "railway-start.sh: generated Caddyfile is invalid" >&2
   caddy validate --config /etc/caddy/Caddyfile --adapter caddyfile >&2 || true
