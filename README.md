@@ -1,6 +1,6 @@
 # Moodist on Railway
 
-A one-click Railway template for [Moodist](https://github.com/remvze/moodist) (MIT), an ambient sound mixer for focus and calm: rain, forest, café, white noise and more than 80 other sounds, plus a Pomodoro timer, notepad, to-do list, breathing exercises and sleep timer. Everything you set up is kept in the visitor's own browser.
+A one-click Railway template for [Moodist](https://github.com/remvze/moodist) (MIT), an ambient sound mixer for focus and calm: 84 sounds (rain, nature, cafés and other places, noise and more) to layer into your own mix, plus binaural beats, a Pomodoro timer, a countdown, a notepad, a to-do list, breathing exercises and a sleep timer. Everything you set up is kept in the visitor's own browser.
 
 **Version:** Moodist `v3.1.1`, official image `ghcr.io/remvze/moodist:v3.1.1@sha256:44367c9ca0f1ec93a28dd3715ad39fa8e69e25cb64931ab655f86954c2ee4b93` (pinned by version and digest in the [`Dockerfile`](Dockerfile)).
 
