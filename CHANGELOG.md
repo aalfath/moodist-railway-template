@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.1.1 (2026-11-23, README)
+
+- No breaking changes, and no change to the image or the start script: the README now starts with the Deploy on Railway button for the published template `moodist`.
+
 ## v3.1.1 (2026-11-23)
 
 - First release of the Railway template: Moodist v3.1.1, official image pinned by version and digest (`ghcr.io/remvze/moodist:v3.1.1@sha256:44367c9c…4b93`).
